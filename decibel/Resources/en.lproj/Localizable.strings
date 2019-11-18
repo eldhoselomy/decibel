@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  decibel
+
+  Created by Eldhose Lomy on 17/11/19.
+  Copyright © 2019 hacker.earth. All rights reserved.
+*/
+
+"LIBRARY"="Library";
+"SONGS"="Songs";
+"FAVORITES"="Favorites";
+"PROFILE"="Profile";
+"CALL"="Call";
+"EMAIL"="Email";
+"RESUME"="Resume";
+"PORTFOLIO"="Portfolio";
+"NAME"="Eldhose Lomy";
